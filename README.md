@@ -13,4 +13,4 @@ Algorithms · Compiler design · Formal verification
 
 🌱 Currently learning Formal Modeling and Verification.
 
-📫 [Say hello](mailto:mhdys5998@gmail.com)
+📫 [Email :](mailto:mhdys5998@gmail.com)
