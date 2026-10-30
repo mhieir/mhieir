@@ -6,7 +6,11 @@ Computer Engineering student at the **University of Tehran**.
 `C` · `C++` · `Python` · `Java` · `Kotlin` · `Standard ML` · `Verilog/SystemVerilog`
 
 **Tools**  
-`Git` · `Linux` · `Isabelle/HOL` · `LaTeX`
+`Isabelle/HOL`
 
 **Skills**  
 Algorithms · Compiler design · Formal verification
+
+🌱 Currently learning Formal Modeling and Verification.
+
+📫 [Say hello](mailto:mhdys5998@gmail.com)
